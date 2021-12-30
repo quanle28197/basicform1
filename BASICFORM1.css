@@ -1,0 +1,29 @@
+.form {
+    background-color: lightblue;
+}
+
+.table__form-beha{
+    display: flex;
+    justify-content: center;
+    background-color: orange;
+
+}
+.table__form {
+    width: 500px;
+    padding-left: 12px;
+}
+.table__form-text {
+    font-size: 30px;
+}
+.table__form-name {
+    color: blue;
+}
+.table__form-name-12 {
+    width: 60%;
+}
+.submit__btn {
+    column-span: 2;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
