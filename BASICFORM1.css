@@ -1,5 +1,6 @@
 .form {
     background-color: lightblue;
+    width: 50%;
 }
 
 .table__form-beha{
@@ -18,9 +19,21 @@
 .table__form-name {
     color: blue;
 }
-.table__form-name-12 {
-    width: 60%;
+
+.table__form-text-6 {
+    font-size: 20px;
 }
+
+.table__form-name-12 {
+    width: 55%;
+    font-size: 20px;
+}
+
+.table__form-name-input {
+    color: orange;
+    text-decoration: none;
+}
+
 .submit__btn {
     column-span: 2;
     display: flex;
